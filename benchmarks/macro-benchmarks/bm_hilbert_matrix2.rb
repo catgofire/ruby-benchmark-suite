@@ -10,6 +10,6 @@ def run_hilbert(dimension)
   k = nil
 end
 
-Bench.run [20] do |n|
+Bench.run [40] do |n|
   run_hilbert(n)
 end
