@@ -1,4 +1,0 @@
-15.times {
-  get '/'
-}
-say "GET / "
